@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "8708e787-adb1-33a6-94c1-d4c563ae7273",
+    "name": "PatoManip",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cee8ac8f-0021-31d1-9e49-671eb2cf9bd8",
+    "name": "Sodio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
